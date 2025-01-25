@@ -1,8 +1,8 @@
 ## Hi, I'm Huu Tri. Welcome to my profile! 🐻🌟
-## Contact Info 🤙
+## ☎️ Contact Info 
 - Phone: (+84) 907 105 ***
 - Email: edricalbert2006@gmail.com
-## Education:
+## 📚 Education:
 **Graduate Le Hong Phong Highschool for the Gifted, Ho Chi Minh**<br />
 **Student at University of Information Technology, Ho Chi Minh**
 - Major : Computer Science, Class of 2028
