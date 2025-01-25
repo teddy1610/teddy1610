@@ -1,4 +1,4 @@
-## Hi, I'm Huu Tri. Welcome to my profile! 🐻🌟
+## 👋 Hi, I'm Huu Tri. Welcome to my profile! 🐻🌟
 ## ☎️ Contact Info 
 - Phone: (+84) 907 105 ***
 - Email: edricalbert2006@gmail.com
