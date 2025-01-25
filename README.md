@@ -3,8 +3,8 @@
 - Phone: (+84) 907 105 ***
 - Email: edricalbert2006@gmail.com
 ## Education:
-**Graduate Le Hong Phong Highschool for the Gifted, Ho Chi Minh**
-##**Student at University of Information Technology, Ho Chi Minh**
+**Graduate Le Hong Phong Highschool for the Gifted, Ho Chi Minh**<br />
+**Student at University of Information Technology, Ho Chi Minh**
 - Major : Computer Science, Class of 2028
 <!--
 **teddy1610/teddy1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
