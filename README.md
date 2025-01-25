@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Huu Tri. Welcome to my profile! 🐻🌟
 
 <!--
 **teddy1610/teddy1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
